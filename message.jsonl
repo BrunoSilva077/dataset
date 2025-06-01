@@ -1,0 +1,36 @@
+{"import json":"# Updated dataset with the new entry"}
+{"import json":"dataset = ["}
+{"import json":"{"}
+{"import json":"\"instruction\": \"Resuma as principais características da Licenciatura em Engenharia Informática da UFP.\""}
+{"import json":"\"context\": \"Os dados são baseados no ano letivo de 2020-2021 da Universidade Fernando Pessoa.\""}
+{"import json":"\"response\": \"A Licenciatura em Engenharia Informática da UFP é um curso de 1º ciclo com duração de 3 anos (6 semestres) e 180 ECTS"}
+{"import json":"\"category\": \"summarization\""}
+{"import json":"}"}
+{"import json":"{"}
+{"import json":"\"instruction\": \"Liste as disciplinas do primeiro ano da Licenciatura em Engenharia Informática da UFP com seus créditos ECTS.\""}
+{"import json":"\"context\": \"Os dados são baseados no ano letivo de 2020-2021.\""}
+{"import json":"\"response\": \"As disciplinas do primeiro ano da Licenciatura em Engenharia Informática da UFP são: 1º Semestre: Estatística Aplicada (5 ECTS)"}
+{"import json":"\"category\": \"information_extraction\""}
+{"import json":"}"}
+{"import json":"{"}
+{"import json":"\"instruction\": \"Quais são as disciplinas do primeiro semestre do Mestrado Integrado em Arquitetura e Urbanismo da UFP?\""}
+{"import json":"\"context\": \"Os dados são do ano letivo de 2020-2021.\""}
+{"import json":"\"response\": \"No primeiro semestre do Mestrado Integrado em Arquitetura e Urbanismo da UFP"}
+{"import json":"\"category\": \"closed_qa\""}
+{"import json":"}"}
+{"import json":"{"}
+{"import json":"\"instruction\": \"Quantos ECTS tem a disciplina Anatomofisiologia I na Licenciatura em Análises Clínicas e Saúde Pública da UFP?\""}
+{"import json":"\"context\": \"Os dados são do ano letivo de 2020-2021.\""}
+{"import json":"\"response\": \"A disciplina Anatomofisiologia I na Licenciatura em Análises Clínicas e Saúde Pública da UFP tem 7 ECTS.\""}
+{"import json":"\"category\": \"closed_qa\""}
+{"import json":"}"}
+{"import json":"{"}
+{"import json":"\"instruction\": \"Resuma as disciplinas oferecidas no primeiro ano da Licenciatura em Psicologia da UFP.\""}
+{"import json":"\"context\": \"Os dados são baseados no ano letivo de 2020-2021.\""}
+{"import json":"\"response\": \"No primeiro ano da Licenciatura em Psicologia da UFP"}
+{"import json":"\"category\": \"summarization\""}
+{"import json":"}"}
+{"import json":"{"}
+{"import json":"\"instruction\": \"Quais faculdades da UFP oferecem licenciaturas ou mestrados integrados listados no documento de 2020-2021?\""}
+{"import json":"\"context\": \"\""}
+{"import json":"\"response\": \"As faculdades da UFP que oferecem licenciaturas ou"}
