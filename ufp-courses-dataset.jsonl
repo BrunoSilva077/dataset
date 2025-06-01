@@ -1,4 +1,4 @@
-[
+
     {
         "instruction": "Resuma as principais características da Licenciatura em Engenharia Informática da UFP.",
         "context": "Os dados são baseados no ano letivo de 2020-2021 da Universidade Fernando Pessoa.",
@@ -77,4 +77,3 @@
         "response": "Os cursos oferecidos pelas faculdades da UFP no documento de 2020-2021 são: Faculdade de Ciência e Tecnologia: Mestrado Integrado em Arquitetura e Urbanismo, Licenciatura em Engenharia Informática; Faculdade de Ciências da Saúde/Escola Superior de Saúde: Licenciatura em Análises Clínicas e Saúde Pública, Mestrado Integrado em Ciências Farmacêuticas, Licenciatura em Enfermagem, Licenciatura em Fisioterapia; Faculdade de Ciências Humanas e Sociais: Licenciatura em Ciência Política e Relações Internacionais, Licenciatura em Ciências da Comunicação, Licenciatura em Ciências Empresariais, Licenciatura em Criminologia, Licenciatura em Psicologia.",
         "category": "closed_qa"
     }
-]
